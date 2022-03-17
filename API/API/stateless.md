@@ -1,0 +1,1 @@
+It means the server does not know about what state the client is in and vice versa

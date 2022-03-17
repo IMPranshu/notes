@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "677675bf82e9f073",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad492d4d83815ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "API.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "235416c8aca47f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee8188364384d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8213f7e934d6dd4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2c4b8028e57dd84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6954b1d86fbcf4f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7765251bc83447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da76d35d29a7ed6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ad492d4d83815ec",
+  "lastOpenFiles": [
+    "API.md",
+    "stateless.md",
+    "REST.md"
+  ]
+}

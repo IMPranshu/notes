@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "bb78751d0ca61e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "11272a1e378f7c98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "After deploying.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32fbb5f415619cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "884b05553159586a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae7bfafd42a734c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fc89e8ee694025b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed2a6fbc5897f231",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d92925f9da118a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7e85d96d6d831c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "After deploying.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "11272a1e378f7c98",
+  "lastOpenFiles": [
+    "After deploying.md"
+  ]
+}

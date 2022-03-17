@@ -1,0 +1,1 @@
+Bitcoin, Ethereum, Avalanche are base layer blockchain solutions.

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "cbe5949c984e4f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f2d2951ce8d0e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Solidity.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3a1e1c87dab7954",
+    "type": "split",
+    "children": [
+      {
+        "id": "3759a1f76efbff38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e74d761748cecc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94634b620ca9072d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "soli",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324
+  },
+  "right": {
+    "id": "d4a7b3546fd20e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8e853d23eb4b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd441b9b7d80bfa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solidity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29f2d2951ce8d0e5",
+  "lastOpenFiles": [
+    "Solidity.md",
+    "Library.md",
+    "Overflow.md",
+    "Safemath.md",
+    "Interfaces.md",
+    "ABI.md",
+    "Project 2.md",
+    "Contract.md",
+    "Buidling Smart Contracts.md",
+    "Project 1.md"
+  ]
+}

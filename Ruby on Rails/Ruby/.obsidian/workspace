@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "12a5e1dba2d1cf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "499bbe878f14ff77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rails.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5db3c8f4002f4fdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69c3bd7fb87a41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5c2269394d09f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0c9a98aac606f81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c402b0cb846b590",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b70895022e28cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afc32e0fd43207e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rails.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "499bbe878f14ff77",
+  "lastOpenFiles": [
+    "Rails.md"
+  ]
+}

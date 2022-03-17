@@ -1,0 +1,1 @@
+It uses [[Elliptic Curve Digital Signature Algorithm]]
