@@ -8,6 +8,6 @@ These are categorised into 5 categories:-
 - 4xx client-side errors
 - 5xx server-side errors
 
-
+Some examples:-
 - 200
 - 404 

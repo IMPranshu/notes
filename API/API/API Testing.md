@@ -8,3 +8,7 @@ It generally consists of making requests to a single resource or multiple API en
 - Security
 - Functional Correctness
 - Status check
+
+For API testing we can use a free tool called **PAW**.
+
+*Note*: We cannot send a body with the API request in a GET request. We have to send a **params** if we want to send a request with a query using GET.
