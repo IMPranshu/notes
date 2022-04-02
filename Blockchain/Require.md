@@ -1,0 +1,1 @@
+If the require logic fails the transaction is reverted, meaning that blockchain data doesn’t change.
